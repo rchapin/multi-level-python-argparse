@@ -1,0 +1,9 @@
+.project
+.pydevproject
+*.pyc
+.settings/
+.eggs/
+*egg-info/
+dist/
+build/
+*.swp
